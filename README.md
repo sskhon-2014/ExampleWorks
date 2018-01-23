@@ -7,7 +7,7 @@ This is a cosine similarity algorithm I designed. It uses gensim's word2vec mode
 You can see the output of this algorithm below:
 
 <p align="center">
-  <img src="screenshot.png" width="350"/>
+  <img src="screenshot.png" width="400"/>
   </p>
   
 # ResultCare's Data Entry Website 
