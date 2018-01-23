@@ -17,7 +17,7 @@ There is also an accompanying javascript file called validation-functions.js. Th
 # My Résumé
 
 <p align="center">
-  <img src="Resume.jpg" width="500"/>
+  <img src="Resume.jpg" width="600"/>
   </p>
 
 
