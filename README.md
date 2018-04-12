@@ -14,11 +14,6 @@ You can see the output of this algorithm below:
 I have also included the html code of the landing page of the data entry platform I designed for ResultCare. This was used to manually enter data from PubMed into the ResultCare database. You can visit the website at: http://resultcare.bitballoon.com.
 There is also an accompanying javascript file called validation-functions.js. This script submits data from the website as AJAX requests to google sheets. This website is completely functional so please do not submit any information here. 
 
-# My Résumé
-
-<p align="center">
-  <img src="Resume.jpg" width="600"/>
-  </p>
 
 
 # Acknowledgments
