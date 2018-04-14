@@ -59,8 +59,3 @@ I have also included the html code of the landing page of the data entry platfor
 There is also an accompanying javascript file called validation-functions.js. This script submits data from the website as AJAX requests to google sheets. This website is completely functional so please do not submit any information here. 
 
 
-
-# Acknowledgments
-- Deok Gun Park, conceptvector, Hedonmeter vs Word2vec Cosine Similarity.ipynb (2016), https://github.com/intuinno/conceptvector/blob/master/experiment/Hedonmeter%20vs%20Word2vec%20Cosine%20Similarity.ipynb
-
-- Martin Hawksey (2014), https://mashe.hawksey.info/2014/07/google-sheets-as-a-database-insert-with-apps-script-using-postget-methods-with-ajax-example/
