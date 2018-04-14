@@ -1,3 +1,10 @@
+# ExampleWorks
+I have added here some of my more recent work in data science. Please take some time to view my code and feel free to contact me if you have questions!
+
+phone: (661)-993-5344
+email: sskhon2014@berkeley.edu
+
+
 # Data_Processor.ipynb
 A project for [ResultCare](https://www.resultcare.com/) in which I clean and anaylze a lot of PubMed articles. The input is an HTML file with matched abstracts from a Perl script and output is an excel sheet with the correct categorization of data values.
 
@@ -36,9 +43,6 @@ This script cleans data from an excel sheet that contains data from PubMed. It r
 1. Make sure you have the repo cloned and jupyter installed
 2. Open your command line program and run the command `jupyter notebook` in the directory
 3. Open up the notebook from the Home UI.
-
-# ExampleWorks
-Here is an example of some of my work. Please take some time to look around!
 
 # CosineSimilarityAlgorithm.ipynb
 This is a cosine similarity algorithm I designed. It uses gensim's word2vec model trained on text8, 10^9 bytes of the English Wikipedia. Through repetition and the use of thresholds, this algorithm can effectively calculate the percent similarity between documents. The only downside of this algorithm is that it does not efficiently compute the percent similarity in large documents. This algorithm was used to convert the local diagnoses in ResultCare's database to the universal standard ICD9. This is a novel approach to Natural Language Processing and it essentially implents a highly complex word search. Wheras a normal word search looks at bits of letters present in different documents, this algorithm takes almost any word in the english language and computes the percent similarity between that word and its closest neighbors. With this model, we can enter in any two sentences as arguements and get the percent similarity between them. 
