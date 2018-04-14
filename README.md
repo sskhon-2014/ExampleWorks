@@ -5,6 +5,9 @@ phone: (661)-993-5344
 
 email: sskhon2014@berkeley.edu
 
+# ResultCare's Data Entry Website 
+I have also included the html code of the landing page of the data entry platform I designed for ResultCare. This was used to manually enter data from PubMed into the ResultCare database. You can visit the website at: http://resultcare.bitballoon.com.
+There is also an accompanying javascript file called validation-functions.js. This script submits data from the website as AJAX requests to google sheets. This website is completely functional so please do not submit any information here. 
 
 # Data_Processor.ipynb
 A project for [ResultCare](https://www.resultcare.com/) in which I clean and anaylze a lot of PubMed articles. The input is an HTML file with matched abstracts from a Perl script and output is an excel sheet with the correct categorization of data values.
@@ -54,8 +57,5 @@ You can see the output of this algorithm below:
   <img src="screenshot.png" width="400"/>
   </p>
   
-# ResultCare's Data Entry Website 
-I have also included the html code of the landing page of the data entry platform I designed for ResultCare. This was used to manually enter data from PubMed into the ResultCare database. You can visit the website at: http://resultcare.bitballoon.com.
-There is also an accompanying javascript file called validation-functions.js. This script submits data from the website as AJAX requests to google sheets. This website is completely functional so please do not submit any information here. 
 
 
